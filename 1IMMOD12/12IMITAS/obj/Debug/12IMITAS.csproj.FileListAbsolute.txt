@@ -1,0 +1,10 @@
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\bin\Debug\12IMITAS.exe.config
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\bin\Debug\12IMITAS.exe
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\bin\Debug\12IMITAS.pdb
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\12IMITAS.csproj.AssemblyReference.cache
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\_12IMITAS.Form1.resources
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\_12IMITAS.Properties.Resources.resources
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\12IMITAS.csproj.GenerateResource.cache
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\12IMITAS.csproj.CoreCompileInputs.cache
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\12IMITAS.exe
+C:\Users\Света\Source\Repos\12IMITAS\12IMITAS\obj\Debug\12IMITAS.pdb
